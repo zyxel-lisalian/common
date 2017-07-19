@@ -15,3 +15,6 @@ def laugh():
 
 def goat_walk():
     print('goat walk')
+
+def tiger_eat():
+    print('tiger eat')
