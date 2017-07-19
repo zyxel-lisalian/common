@@ -13,3 +13,5 @@ def jump():
 def laugh():
     print("laughing")
 
+def goat_walk():
+    print('goat walk')
